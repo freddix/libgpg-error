@@ -1,11 +1,11 @@
 Summary:	Library libgpg-error
 Name:		libgpg-error
-Version:	1.16
+Version:	1.17
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	ftp://ftp.gnupg.org/gcrypt/libgpg-error/%{name}-%{version}.tar.bz2
-# Source0-md5:	ec7f82d92329a535a89b06142e625f8c
+# Source0-md5:	b4f8d8b9ff14aed41f279aa844563539
 URL:		http://www.gnupg.org/related_software/libgpg-error/
 BuildRequires:	autoconf
 BuildRequires:	automake
